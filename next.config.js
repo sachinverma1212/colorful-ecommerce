@@ -4,6 +4,7 @@ const nextConfig = {
     domains: ['images.pexels.com'],
   },
   reactStrictMode: true,
+  swcMinify: true,
 }
 
 module.exports = nextConfig 
